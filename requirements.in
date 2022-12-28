@@ -1,0 +1,7 @@
+flask-caching
+flask
+icalendar
+requests
+pyyaml
+recurring-ical-events
+gunicorn
