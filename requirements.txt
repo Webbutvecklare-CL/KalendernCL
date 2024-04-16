@@ -34,7 +34,9 @@ itsdangerous==2.1.2
 jinja2==3.1.3
     # via flask
 markupsafe==2.1.1
-    # via jinja2
+    # via
+    #   jinja2
+    #   werkzeug
 python-dateutil==2.8.2
     # via
     #   icalendar
@@ -54,7 +56,7 @@ six==1.16.0
     # via python-dateutil
 urllib3==1.26.18
     # via requests
-werkzeug==2.1.1
+werkzeug==2.3.8
     # via flask
 x-wr-timezone==0.0.5
     # via recurring-ical-events
