@@ -56,7 +56,7 @@ six==1.16.0
     # via python-dateutil
 urllib3==1.26.18
     # via requests
-werkzeug==2.3.8
+werkzeug==3.0.3
     # via flask
 x-wr-timezone==0.0.5
     # via recurring-ical-events
