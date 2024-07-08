@@ -44,16 +44,17 @@ python-dateutil==2.8.2
 pytz==2022.1
     # via
     #   icalendar
-    #   recurring-ical-events
     #   x-wr-timezone
 pyyaml==6.0
     # via -r requirements.in
-recurring-ical-events==2.0.2
+recurring-ical-events==2.2.2
     # via -r requirements.in
 requests==2.31.0
     # via -r requirements.in
 six==1.16.0
     # via python-dateutil
+tzdata==2024.1
+    # via recurring-ical-events
 urllib3==1.26.18
     # via requests
 werkzeug==2.3.8
