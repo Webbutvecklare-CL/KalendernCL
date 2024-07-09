@@ -60,7 +60,7 @@ werkzeug==2.3.8
     # via flask
 x-wr-timezone==0.0.5
     # via recurring-ical-events
-zipp==3.8.0
+zipp==3.19.1
     # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
